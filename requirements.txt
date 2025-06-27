@@ -1,0 +1,5 @@
+easyocr
+flask
+pdf2image
+pillow
+numpy
